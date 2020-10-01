@@ -1,5 +1,5 @@
 # KNN Using Parallel Programming
-
+Faster execution for KNN (compared to the sequential code)is achieved using parallel programming paradigms: Spark, MPI and MapReduce. 
 ## KNN Introduction
 
 K-nearest neighbors (kNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems
